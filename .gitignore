@@ -15,10 +15,6 @@ env/
 .vscode/
 .idea/
 
-# Cursor（勿提交编辑器缓存与 AI 产物）
-.cursor/
-.virtual_documents/
-canvases/
 Quant-for Beginners/
 
 # Data artifacts
