@@ -133,14 +133,15 @@ Quant-for-Beginners/
 ## Star 趋势
 
 <p align="center">
-  <a href="https://star-history.com/#yibohere/Quant-for-Beginners&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=yibohere/Quant-for-Beginners&type=Date&theme=dark"/>
-      <img alt="Star History" src="https://api.star-history.com/svg?repos=yibohere/Quant-for-Beginners&type=Date" width="600"/>
-    </picture>
+  <a href="https://www.star-history.com/#yibohere/Quant-for-Beginners&Date">
+    <img
+      alt="Star History Chart"
+      src="https://api.star-history.com/chart?repos=yibohere/Quant-for-Beginners&type=date&legend=top-left"
+      width="700"
+    />
+     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/yibohere/Quant-for-Beginners?style=flat-square">
   </a>
 </p>
-
 ---
 
 ## 贡献
