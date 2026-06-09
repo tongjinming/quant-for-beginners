@@ -7,6 +7,11 @@
 <p align="center">
   <strong>Quant-for-Beginners</strong> · 中文零基础量化金融 Notebook 路线 · Phase 1 已上线
 </p>
+<p align="center">
+## 作者
+- **Yibo Cheng (翊博)**：项目发起人与主要维护者
+- GitHub：[@yibohere](https://github.com/yibohere)
+</p>
 
 <p align="center">
   <a href="requirements.txt"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
