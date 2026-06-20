@@ -10,8 +10,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# macOS 字体兼容：SimHei 是 Windows 字体，这里用回退列表
-plt.rcParams['font.sans-serif'] = ['SimHei', 'Heiti TC', 'Arial Unicode MS']
+# 字体回退列表：macOS 字体在前，SimHei（Windows）留最后，保证跨平台可跑
+plt.rcParams['font.sans-serif'] = ['PingFang SC', 'Heiti TC', 'Arial Unicode MS', 'SimHei']
 plt.rcParams['axes.unicode_minus'] = False
 np.random.seed(7)
 
