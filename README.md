@@ -18,7 +18,7 @@
   <a href="#快速开始">快速开始</a> ·
   <a href="#课程目录">课程目录</a> ·
   <a href="#学习路线">学习路线</a> ·
-  <a href="#路线图">后续规划</a>
+  <a href="#路线图">后续规划</a> ·
   <a href="#Yibo Quant 成长会">YiboQuant成长会</a>
 </p>
 
